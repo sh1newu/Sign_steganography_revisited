@@ -5,7 +5,7 @@ the paper "Robust Steganography by Modifying Sign of DCT Coefficients".
 
 Paper Link:  
 https://doi.org/10.1016/j.sigpro.2022.108522  
-https://doi.org/10.1016/j.sigpro.2022.108522  
+https://doi.org/10.1016/j.sigpro.2021.108048  
 https://doi.org/10.1109/ACCESS.2019.2953504
 
 The code is written by Xiaoshuai Wu in March 2022.  
