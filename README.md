@@ -1,15 +1,12 @@
 The implementation of   
-the paper "Sign Steganography Revisited with Robust Domain Selection" and  
-the paper "Robust Steganography Resisting JPEG Compression by Improving Selection of Cover Element" and  
-the paper "Robust Steganography by Modifying Sign of DCT Coefficients".
-
-Paper Link:  
-https://doi.org/10.1016/j.sigpro.2022.108522  
-https://doi.org/10.1016/j.sigpro.2021.108048  
+the paper "Sign Steganography Revisited with Robust Domain Selection"   
+https://doi.org/10.1016/j.sigpro.2022.108522   
+the paper "Robust Steganography Resisting JPEG Compression by Improving Selection of Cover Element"   https://doi.org/10.1016/j.sigpro.2021.108048   
+the paper "Robust Steganography by Modifying Sign of DCT Coefficients"  
 https://doi.org/10.1109/ACCESS.2019.2953504
 
 The code is written by Xiaoshuai Wu in March 2022.  
-Contact: tong.qiao@hdu.edu.cn
+Contact: tong.qiao@hdu.edu.cn / shinewu@hdu.edu.cn
 
 How to use：
 1. papare_image.m
