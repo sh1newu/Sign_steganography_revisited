@@ -1,4 +1,4 @@
-# Collection of Sign Steganography    
+# DCT sign-based Robust Steganography    
 
 The implementation of   
 the paper "Sign Steganography Revisited with Robust Domain Selection"   
