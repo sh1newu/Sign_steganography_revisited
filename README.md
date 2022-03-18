@@ -7,7 +7,7 @@ the paper "Robust Steganography Resisting JPEG Compression by Improving Selectio
 the paper "Robust Steganography by Modifying Sign of DCT Coefficients"  
 https://doi.org/10.1109/ACCESS.2019.2953504
 
-The code is written by Xiaoshuai Wu in March 2022.  
+The code is strictly for non-commercial academic use only.  
 Contact: tong.qiao@hdu.edu.cn / shinewu@hdu.edu.cn
 
 How to use：
