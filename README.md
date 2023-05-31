@@ -8,7 +8,7 @@ the paper "Robust Steganography by Modifying Sign of DCT Coefficients" (SS)
 https://doi.org/10.1109/ACCESS.2019.2953504
 
 The code is strictly for non-commercial academic use only.  
-Contact: tong.qiao@hdu.edu.cn / shinewu@hdu.edu.cn
+Contact: tong.qiao@hdu.edu.cn / shinewu@hnu.edu.cn
 
 How to use：
 1. papare_image.m
