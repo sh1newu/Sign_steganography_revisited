@@ -1,10 +1,10 @@
 # DCT sign-based Robust Steganography    
 
 The implementation of   
-the paper "Sign Steganography Revisited with Robust Domain Selection"   
+the paper "Sign Steganography Revisited with Robust Domain Selection" (SSR)  
 https://doi.org/10.1016/j.sigpro.2022.108522   
-the paper "Robust Steganography Resisting JPEG Compression by Improving Selection of Cover Element"   https://doi.org/10.1016/j.sigpro.2021.108048   
-the paper "Robust Steganography by Modifying Sign of DCT Coefficients"  
+the paper "Robust Steganography Resisting JPEG Compression by Improving Selection of Cover Element" (ESS)  https://doi.org/10.1016/j.sigpro.2021.108048   
+the paper "Robust Steganography by Modifying Sign of DCT Coefficients" (SS)  
 https://doi.org/10.1109/ACCESS.2019.2953504
 
 The code is strictly for non-commercial academic use only.  
