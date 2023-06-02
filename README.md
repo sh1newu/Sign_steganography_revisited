@@ -3,7 +3,7 @@
 The implementation of   
 the paper "Sign Steganography Revisited with Robust Domain Selection" (__SSR__)  
 https://doi.org/10.1016/j.sigpro.2022.108522   
-the paper "Robust Steganography Resisting JPEG Compression by Improving Selection of Cover Element" (__ESS__)  https://doi.org/10.1016/j.sigpro.2021.108048   
+the paper "Robust Steganography Resisting JPEG Compression by Improving Selection of Cover Element" (__ESS__)   https://doi.org/10.1016/j.sigpro.2021.108048   
 the paper "Robust Steganography by Modifying Sign of DCT Coefficients" (__SS__)  
 https://doi.org/10.1109/ACCESS.2019.2953504
 
