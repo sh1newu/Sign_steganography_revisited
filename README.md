@@ -11,8 +11,8 @@ The code is strictly for non-commercial academic use only.
 Contact: tong.qiao@hdu.edu.cn / shinewu@hnu.edu.cn
 
 How to use：
-1. papare_image.m
-2. papare_cost.m
+1. prepare_image.m
+2. prepare_cost.m
 3. Main.m
 4. Main_test.m  
 
